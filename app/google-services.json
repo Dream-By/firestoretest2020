@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "724903884358",
+    "firebase_url": "https://firestoretest2020.firebaseio.com",
+    "project_id": "firestoretest2020",
+    "storage_bucket": "firestoretest2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724903884358:android:dc33d8bf0dadad66b07c47",
+        "android_client_info": {
+          "package_name": "com.example.firestoretest2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724903884358-h0clf5vjqhl81fikq9a09t73avf4cn45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASYFiTbn_isq15hTJlgGi5XDULWtdhqik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724903884358-h0clf5vjqhl81fikq9a09t73avf4cn45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

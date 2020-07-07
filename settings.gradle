@@ -1,0 +1,2 @@
+rootProject.name='firestoretest2020'
+include ':app'
